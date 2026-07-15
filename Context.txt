@@ -1,0 +1,23 @@
+# Project Context
+
+## Data
+- Files: to be created
+
+## Goals
+Show commit, push and pull on github using AI
+
+## Planned workflow
+1. create github repo? using my github
+2. create fun code to commit, push, pull from github
+3. push pull commit exmaples
+4. update conetxt file
+
+## Coding preferences
+- python
+- Use tidyverse style.
+- Use project-relative paths (from the project root).
+- Explain assumptions.
+
+## Current status
+- starting
+
