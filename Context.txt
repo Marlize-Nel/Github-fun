@@ -1,7 +1,7 @@
 # Project Context
 
 ## Data
-- Files: cats.py (ASCII cat art script), .github/workflows/cats.yml (GitHub Actions)
+- Files: cats.py (ASCII cat art script), .github/workflows/cats.yml (GitHub Actions), README.md
 
 ## Goals
 Demonstrate commit, push, and pull on GitHub using AI.
@@ -19,9 +19,10 @@ Demonstrate commit, push, and pull on GitHub using AI.
 
 ## Current status
 - Step 1 done: local git repo initialized (branch: main), remote 'origin' -> https://github.com/Marlize-Nel/Github-fun
-- Step 2 done: added cats.py (fun ASCII cat art)
-- Step 3 done: practiced commit/push/pull via several commits (add script, tweak loaf cat face, add GitHub Actions workflow to print the cats, fix nose)
+- Step 2 done: added cats.py (fun ASCII cat art); now has 9 cats
+- Step 3 done: practiced commit/push/pull via several commits (add script, tweak faces, add GitHub Actions workflow, add more cats, rename/align cats)
 - Added .github/workflows/cats.yml to run the script on GitHub Actions
+- Added README.md with usage instructions
 - All commits pushed to origin/main
-- Step 4 in progress: updating this context file
+- Step 4 done: context file kept up to date
 
