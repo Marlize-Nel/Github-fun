@@ -19,5 +19,6 @@ Show commit, push and pull on github using AI
 - Explain assumptions.
 
 ## Current status
-- starting
+- Step 1 done: local git repo initialized (branch: main), remote 'origin' -> https://github.com/Marlize-Nel/Github-fun
+- Next: step 2 (create fun code to commit/push/pull)
 
