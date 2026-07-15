@@ -1,0 +1,21 @@
+name: Print the cats
+
+# Run on every push, and allow manual runs from the Actions tab.
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  cats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Print every cat
+        run: python cats.py --all
